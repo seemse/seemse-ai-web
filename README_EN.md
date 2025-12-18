@@ -2,7 +2,7 @@
 
 English | [简体中文](./README.md)
 
-🚀 **Version**: v2.0.0 | 📅 **Updated**: January 2025 | 🌐 **Repository**: [https://github.com/seemse/seemse-ai-web.git](https://github.com/seemse/seemse-ai-web.git)
+🚀 **Version**: v2.0.0 | 📅 **Updated**: December 2025 | 🌐 **Repository**: [https://github.com/seemse/seemse-ai-web.git](https://github.com/seemse/seemse-ai-web.git)
 
 A modern AI chat application frontend based on Vue 3, supporting ChatGPT, Midjourney and other AI features.
 

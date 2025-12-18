@@ -7,7 +7,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/seemse/seemse-ai-web.svg?style=social)
 ![Based on Vue 3](https://img.shields.io/badge/Based%20on-Vue%203-brightgreen.svg)
 
-🚀 **版本**: v2.0.0 | 📅 **更新日期**: 2025年1月 | 🌐 **项目地址**: [https://github.com/seemse/seemse-ai-web.git](https://github.com/seemse/seemse-ai-web.git)
+🚀 **版本**: v2.0.0 | 📅 **更新日期**: 2025年12月 | 🌐 **项目地址**: [https://github.com/seemse/seemse-ai-web.git](https://github.com/seemse/seemse-ai-web.git)
 
 一款**基于 Vue 3 + TypeScript**开发的现代化 AI 聊天应用前端，专为「智能对话 + 多模态 AI 能力」场景深度优化。集成 ChatGPT、Midjourney、语音交互等核心功能，支持「企业级部署、权限管控、国际化」等高级特性，为开发者提供「开箱即用」的 AI 应用前端解决方案。
 
